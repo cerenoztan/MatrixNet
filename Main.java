@@ -1,6 +1,6 @@
 import java.io.*;
 import java.util.Locale;
-//Ceren Öztan 2023400288
+
 public class Main {
     //MatrixNet is the class that graph's edges and vertices are created and every interaction is implemented
     private static MatrixNet MatrixNet=new MatrixNet();
