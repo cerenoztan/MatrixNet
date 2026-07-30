@@ -1,2 +1,2 @@
 # MatrixNet
-A Java-based graph simulation and network resistance analysis project.
+A Java graph simulation project featuring shortest-path routing, connectivity analysis, bridge detection, and articulation-point detection.
